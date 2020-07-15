@@ -1,6 +1,7 @@
 var lives, score, yPos_red;
 var line1_x, line1_y, line1_length;
 var line2_x, line2_y, line2_length;
+var GameOn;
 var decreaseLength_line1, decreaseLength_line2;
 
 function setup() {
