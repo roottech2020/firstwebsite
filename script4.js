@@ -1,5 +1,3 @@
-/*global keyIsPressed, keyCode, UP_ARROW, GameOn, frameRate textSize, text, createCanvas, background, rect, fill, line, noStroke, width, stroke, strokeWeight, height, ellipse, mouseX, mouseY, random */
-
 var lives, score, yPos_red;
 var line1_x, line1_y, line1_length;
 var line2_x, line2_y, line2_length;
